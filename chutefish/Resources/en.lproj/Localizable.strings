@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  chute balls
+
+  Created by Roman Filippov on 22.03.14.
+  Copyright (c) 2014 Roman Filippov. All rights reserved.
+*/
+
+"New game" = "New game";
+"How to play" = "How to play";
+"About" = "About";
+"Health: %d" = "Health\n%d";
+"Score: %d" = "Score\n%d";
+"Game Over!" = "Game Over!";
+"Your Score: %d" = "Your Score: %d";
+"Best Score: %d" = "Best Score: %d";
+"help_1" = "Draw a line\nwith your finger";
+"help_2" = "New fish will appear";
+"help_3" = "It should fall\ninto the pipe\nof the same color";
+"help_4_%d" = "You have %d life";
+"help_5" = "You lose a life\nfor a wrong fish\nand get a score\nfor a right";
+"help_6" = "Wall will dissapear\nin 4 seconds \n after drawing";
+"help_7" = "Now you're ready\nto beat your friends'\nrecords!";
+"about_text" = "© Roman Filippov \n2013-2014";
+"choose_fish" = "Choose your fish!";
+
+"main_font" = "ChunkFive-Roman";
+"stat_font" = "04b30";
+
+// Menu images
+"new_game_image" = "new_game.png";
+"how_to_play_image" = "how_to.png";
+"about_image" = "about.png";
